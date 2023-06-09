@@ -40,4 +40,4 @@ The Rust Inbound Proxy relies on the following external dependencies:
 
 ## Conclusion
 
-The Rust Inbound Proxy offers a reliable and performant solution for proxying inbound network traffic. With its easy-to-use command-line interface and robust functionality, it provides a seamless experience for transparently forwarding traffic to a specified target host and port. Enjoy the power and efficiency of Rust with this lightweight proxy server!
+The Rust Inbound Proxy offers a reliable and performant solution for proxying inbound network traffic. With its easy-to-use command-line interface and robust functionality, it provides a seamless experience for transparently forwarding traffic to a specified target host and port. Enjoy the power and efficiency of Rust with this lightweight proxy server! 🚀
